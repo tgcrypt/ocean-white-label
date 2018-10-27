@@ -1,0 +1,114 @@
+body .oceanwp-brand.oceanwp-bloc {
+	margin: 0;
+}
+body .oceanwp-brand.oceanwp-bloc h3 {
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	text-align: left; 
+	background-color: #7e3bd0;
+}
+
+body .oceanwp-brand .content-wrap {
+	padding: 0 20px 20px;
+	text-align: left;
+}
+
+body .oceanwp-brand .field-wrap {
+	margin-bottom: 30px;
+}
+body .oceanwp-brand .field-wrap.left,
+body .oceanwp-brand .field-wrap.right {
+	float: left;
+	clear: left; 
+	width: 48%;
+	margin-top: 0;
+}
+body .oceanwp-brand .field-wrap.right {
+	float: right;
+	clear: right;
+}
+body .oceanwp-brand .field-wrap.clear {
+	clear: both;
+}
+body .oceanwp-brand .field-wrap label {
+	font-size: 14px;
+	font-weight: 600;
+	display: block;
+	margin-bottom: 6px;
+}
+
+body .oceanwp-brand input[type=text],
+body .oceanwp-brand textarea {
+	font-size: 14px;
+	display: block;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box; 
+	width: 100%;
+	height: 34px;
+	margin: 0;
+	padding: 5px 12px;
+	color: #333;
+	border: 1px solid rgba(0, 0, 0, .1);
+	border-radius: 0;
+	outline: 0;
+	background-color: #f5f5f5;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+body .oceanwp-brand input[type=text]:focus,
+body .oceanwp-brand textarea:focus {
+	border-color: rgba(0, 0, 0, .18);
+}
+
+body .oceanwp-brand textarea {
+	min-height: 100px;
+}
+
+body .oceanwp-brand .desc {
+	font-style: italic;
+	margin: 10px 0 0; 
+	color: #777;
+}
+
+body .oceanwp-brand .oceanwp-media-live-preview {
+	margin-bottom: 10px;
+	text-align: center;
+}
+body .oceanwp-brand .oceanwp-media-live-preview img {
+	max-width: 100%;
+}
+
+body .oceanwp-brand .oceanwp-media-upload-button,
+body .oceanwp-brand .oceanwp-media-remove {
+	margin-top: 10px;
+}
+
+body .oceanwp-brand .oceanwp-media-remove {
+	float: right;
+	color: #a00;
+}
+
+body .oceanwp-brand .button.owp-button {
+	margin: 10px 0 0; 
+	background-color: #7e3bd0;
+}
+body .oceanwp-brand .button.owp-button:hover {
+	background-color: #47118a;
+}
+
+body .oceanwp-brand .oceanwp-settings-updated {
+	margin-top: 12px;
+}
+body .oceanwp-brand .oceanwp-settings-updated p {
+	font-weight: 600;
+	margin: 0; 
+	letter-spacing: .6px;
+	color: #319e6c;
+}
+
+@media screen and (max-width: 1280px) {
+	body .oceanwp-brand {
+		display: block;
+	}
+}

@@ -1,0 +1,18 @@
+= 1.0.5 =
+- Added: New checkbox setting to hide the Themes section in the customizer as the theme name cannot be edited in it.
+
+= 1.0.4 =
+- Added: Polish translation, thanks to Fin Fafarafiel.
+
+= 1.0.3 =
+- Added: New checkbox setting to hide the OceanWP News & Updates widget in the dashboard.
+- Added: New checkbox setting to hide the OceanWP sidebar in the Theme Panel.
+
+= 1.0.2 =
+- Fixed: Theme name is changed even if you change theme.
+
+= 1.0.1 =
+- Deleted: Admin notice if OceanWP is not the theme used.
+
+= 1.0.0 =
+- Initial release.
